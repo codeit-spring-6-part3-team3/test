@@ -1,7 +1,7 @@
 ---
 name: "Pull Reqeust template"
 about: 각 항목들을 채워 풀 리퀘스트를 올려주세요.
-title: '[이름] type : subject'
+title: "[이름] type : subject"
 labels: ''
 assignees: ''
 
