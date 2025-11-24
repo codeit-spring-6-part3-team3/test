@@ -1,9 +1,9 @@
 ---
 name: "Pull Reqeust template"
-about: 각 항목들을 채워 풀 리퀘스트를 올려주세요.
+about: 아래 사항을 확인 및 작성하시고, frontmatter를 지워주세요.
 title: "[이름] type : subject"
-labels: ''
-assignees: ''
+labels: "type에 맞는"
+assignees: "본인"
 
 ---
 
